@@ -24,7 +24,7 @@ Components Used
 
 * 170 Point Breadboard
 * Clone of Arduino Pro Micro
-* 2x 100 Ohm Resistor
+* 2x 1000 Ohm Resistor
 * 1x 220 Ohm Resistor
 * 2x 330 kOhm Resistor
 * Solid-Core Wire
